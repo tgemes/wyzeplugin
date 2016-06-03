@@ -1,3 +1,3 @@
 # wyzeplugin
 
-1.0.10 - added plugin detection
+1.0.11 - plugin detection fix
