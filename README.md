@@ -1,3 +1,3 @@
 # wyzeplugin
 
-1.0.11 - plugin detection fix
+1.0.12 - use new api url
