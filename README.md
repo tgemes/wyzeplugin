@@ -1,3 +1,3 @@
 # wyzeplugin
 
-1.0.12 - use new api url
+1.0.13 - use new plugin url
